@@ -1,0 +1,121 @@
+body {
+	font-family: 'Germania One', cursive;
+font-family: 'Fredericka the Great', cursive;
+background-color: white;
+margin: 0;
+      }
+      /*
+.hm{ position: absolute;
+	 left: 60rem;
+	 top: 0.5;
+}
+
+
+
+.pj{ position: absolute;
+	 left: 64rem;
+	 top: 0.5;
+
+}
+
+.kk{ position: absolute;
+	 left: 70rem;
+	 top: 0.5;
+
+ }
+
+ .pp{
+	 position: absolute;
+	 left:76rem;
+	 top:0.5;
+ }
+*/
+.mimi{
+	background-color: maroon;
+	color: white;
+	margin-bottom: 10%;
+}
+
+
+
+a{
+	text-decoration: none;
+	color: white;
+}
+.move-this{
+
+	float: right;
+	top: 5px;
+width: 400px;
+	border-radius: 100%;
+top: 15;
+}
+
+.heading-one{
+	text-align: center;
+}
+.desc-box{
+	margin: 20% auto 20%;
+}
+
+.control-box{
+	padding-bottom: 10%;
+}
+
+@media(max-width: 900px){
+	
+	.move-this{
+
+	margin: 50% auto 50%;
+width: 400px;
+	border-radius: 100%;
+top: 15;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
